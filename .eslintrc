@@ -1,0 +1,69 @@
+{
+    "parser": "babel-eslint",                       // https://github.com/babel/babel-eslint
+    "plugins": [
+        "babel",                                    // https://github.com/babel/eslint-plugin-babel
+        "lit"                                       // https://github.com/43081j/eslint-plugin-lit
+    ],
+    "extends": [
+        "eslint:recommended",
+        "google",                                   // https://github.com/google/eslint-config-google
+        "plugin:lit/recommended"                    // https://github.com/43081j/eslint-plugin-lit
+    ],
+    "env": {                                        // https://eslint.org/docs/user-guide/configuring#specifying-environments
+        "browser": true,
+        "node": true,
+        "es6": true
+    },
+    "rules": {                                      // https://eslint.org/docs/rules/
+        "quotes": [0, "never"],
+        "semi": [0, "never"],
+        "object-curly-spacing": [1, "always"],      // https://eslint.org/docs/rules/object-curly-spacing
+        "curly": [1, "multi-line"],                 // https://eslint.org/docs/rules/curly
+        "arrow-parens": [1, "as-needed", {          // https://eslint.org/docs/rules/arrow-parens
+            "requireForBlockBody": true
+        }],
+        "no-unused-vars": [1],
+        "padded-blocks": [0, {                      // https://eslint.org/docs/rules/padded-blocks
+            "blocks": "never",
+            "classes": "never"
+        }, "allowSingleLineBlocks": true],
+        "max-len": [0, {                            // https://eslint.org/docs/rules/max-len
+            "code": 80,
+            "tabWidth": 4,
+            "ignoreUrls": true,
+            "ignoreStrings": true,
+            "ignoreComments": true,
+            "ignoreRegExpLiterals": true,
+            "ignoreTemplateLiterals": true
+        }],
+        "spaced-comment": [0, "off"],
+        "require-jsdoc": [0, "off"],
+        "comma-dangle": [0, "off"],
+        "no-trailing-spaces": [1],
+        "valid-jsdoc": [1],
+        "indent": [                                 // https://eslint.org/docs/rules/indent
+            1, 4, {
+                "CallExpression": {
+                    "arguments": 1
+                },
+                "FunctionDeclaration": {
+                    "body": 1,
+                    "parameters": 2
+                },
+                "FunctionExpression": {
+                    "body": 1,
+                    "parameters": 2
+                },
+                "MemberExpression": 1,
+                "ObjectExpression": 1,
+                "SwitchCase": 1,
+                "ignoredNodes": [
+                    "ConditionalExpression",
+                    "TemplateLiteral *",
+                ]
+            }
+        ],
+        "no-invalid-this": 0,                       // https://eslint.org/docs/rules/no-invalid-this
+        "babel/no-invalid-this": 1                  // https://github.com/babel/eslint-plugin-babel
+    }
+}
