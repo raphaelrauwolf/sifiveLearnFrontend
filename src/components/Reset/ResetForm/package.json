@@ -1,0 +1,5 @@
+{
+	"name": "ResetForm",
+	"private": true,
+	"main": "./ResetForm.js"
+}

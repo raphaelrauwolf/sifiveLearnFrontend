@@ -1,0 +1,5 @@
+{
+	"name": "MediaFilesLessonComponent",
+	"private": true,
+	"main": "./MediaFilesLessonComponent.js"
+}

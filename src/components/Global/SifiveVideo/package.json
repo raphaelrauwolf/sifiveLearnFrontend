@@ -1,0 +1,5 @@
+{
+	"name": "SifiveVideo",
+	"private": true,
+	"main": "./SifiveVideo.js"
+}

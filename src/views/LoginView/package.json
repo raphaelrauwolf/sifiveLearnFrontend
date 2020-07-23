@@ -1,0 +1,5 @@
+{
+	"name": "LoginView",
+	"private": true,
+	"main": "./LoginView.js"
+}

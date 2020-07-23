@@ -1,0 +1,14 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:none;}
+	.st1{fill:none;}
+	.st2{fill:none;}
+</style>
+<path class="st0" d="M0,0h24v24H0V0z"/>
+<g>
+	<path class="st1" d="M12,21.5c5.2,0,9.5-4.3,9.5-9.5S17.2,2.5,12,2.5S2.5,6.8,2.5,12S6.8,21.5,12,21.5z"/>
+	<line class="st2" x1="12" y1="7.5" x2="12" y2="16.5"/>
+	<line class="st2" x1="16.5" y1="12" x2="7.5" y2="12"/>
+</g>
+</svg>

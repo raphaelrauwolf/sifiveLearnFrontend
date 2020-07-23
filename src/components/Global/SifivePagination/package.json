@@ -1,0 +1,5 @@
+{
+	"name": "SifivePagination",
+	"private": true,
+	"main": "./SifivePagination.js"
+}

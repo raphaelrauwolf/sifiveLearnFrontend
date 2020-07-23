@@ -1,0 +1,5 @@
+{
+	"name": "SignupVerify",
+	"private": true,
+	"main": "./SignupVerify.js"
+}

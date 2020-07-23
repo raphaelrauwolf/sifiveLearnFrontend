@@ -1,0 +1,5 @@
+{
+	"name": "CourseSummaryRow",
+	"private": true,
+	"main": "./CourseSummaryRow.js"
+}

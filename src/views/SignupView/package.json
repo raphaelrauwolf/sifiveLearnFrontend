@@ -1,0 +1,5 @@
+{
+	"name": "SignupView",
+	"private": true,
+	"main": "./SignupView.js"
+}

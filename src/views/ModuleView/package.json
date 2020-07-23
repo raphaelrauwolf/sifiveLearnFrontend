@@ -1,0 +1,5 @@
+{
+	"name": "ModuleView",
+	"private": true,
+	"main": "./ModuleView.js"
+}

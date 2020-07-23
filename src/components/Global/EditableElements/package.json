@@ -1,0 +1,5 @@
+{
+	"name": "EditableElements",
+	"private": true,
+	"main": "./EditableElements.js"
+}

@@ -1,0 +1,5 @@
+{
+	"name": "UserSummaryRow",
+	"private": true,
+	"main": "./UserSummaryRow.js"
+}

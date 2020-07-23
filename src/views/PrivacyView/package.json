@@ -1,0 +1,5 @@
+{
+	"name": "PrivacyView",
+	"private": true,
+	"main": "./PrivacyView.js"
+}

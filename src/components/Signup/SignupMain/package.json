@@ -1,0 +1,5 @@
+{
+	"name": "SignupMain",
+	"private": true,
+	"main": "./SignupMain.js"
+}

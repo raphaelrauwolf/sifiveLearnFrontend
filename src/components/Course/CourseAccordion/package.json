@@ -1,0 +1,5 @@
+{
+	"name": "CourseAccordion",
+	"private": true,
+	"main": "./CourseAccordion.js"
+}

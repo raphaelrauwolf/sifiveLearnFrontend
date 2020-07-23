@@ -1,0 +1,5 @@
+{
+	"name": "ManagerTeam",
+	"private": true,
+	"main": "./ManagerTeam.js"
+}

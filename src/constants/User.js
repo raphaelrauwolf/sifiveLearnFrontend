@@ -1,0 +1,30 @@
+export const ASSESSOR_ROLE = 'accessor';
+export const MANAGER_ROLE = 'manager';
+export const LEARNER_ROLE = 'learner';
+
+export const ASSESSOR_LABEL = 'Assessor';
+export const MANAGER_LABEL = 'Manager';
+export const LEARNER_LABEL = 'Learner';
+
+export const ROLES = {
+    MANAGER: {
+        API: MANAGER_ROLE,
+        LABEL: MANAGER_LABEL,
+    },
+    ASSESSOR: {
+        API: ASSESSOR_ROLE,
+        LABEL: ASSESSOR_LABEL,
+    },
+    LEARNER: {
+        API: LEARNER_ROLE,
+        LABEL: LEARNER_LABEL,
+    },
+};
+
+ROLES[MANAGER_ROLE] = ROLES.MANAGER;
+ROLES[ASSESSOR_ROLE] = ROLES.ASSESSOR;
+ROLES[LEARNER_ROLE] = ROLES.LEARNER;
+
+ROLES[MANAGER_LABEL] = ROLES.MANAGER;
+ROLES[ASSESSOR_LABEL] = ROLES.ASSESSOR;
+ROLES[LEARNER_LABEL] = ROLES.LEARNER;

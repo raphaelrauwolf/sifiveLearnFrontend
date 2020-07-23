@@ -1,0 +1,5 @@
+{
+	"name": "ModuleAccordion",
+	"private": true,
+	"main": "./ModuleAccordion.js"
+}

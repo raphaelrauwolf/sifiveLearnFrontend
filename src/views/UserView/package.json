@@ -1,0 +1,5 @@
+{
+	"name": "UserView",
+	"private": true,
+	"main": "./UserView.js"
+}

@@ -1,0 +1,5 @@
+{
+	"name": "ForgotView",
+	"private": true,
+	"main": "./ForgotView.js"
+}

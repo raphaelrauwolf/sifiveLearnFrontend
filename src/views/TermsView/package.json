@@ -1,0 +1,5 @@
+{
+	"name": "TermsView",
+	"private": true,
+	"main": "./TermsView.js"
+}

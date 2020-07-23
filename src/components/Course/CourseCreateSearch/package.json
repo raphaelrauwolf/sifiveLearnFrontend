@@ -1,0 +1,5 @@
+{
+	"name": "CourseCreateSearch",
+	"private": true,
+	"main": "./CourseCreateSearch.js"
+}

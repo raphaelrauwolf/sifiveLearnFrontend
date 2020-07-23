@@ -1,0 +1,5 @@
+{
+	"name": "VerifyView",
+	"private": true,
+	"main": "./VerifyView.js"
+}

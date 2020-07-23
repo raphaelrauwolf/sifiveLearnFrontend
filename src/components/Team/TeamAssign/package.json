@@ -1,0 +1,5 @@
+{
+	"name": "TeamAssign",
+	"private": true,
+	"main": "./TeamAssign.js"
+}

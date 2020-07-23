@@ -1,0 +1,5 @@
+{
+	"name": "SifiveDropdown",
+	"private": true,
+	"main": "./SifiveDropdown.js"
+}

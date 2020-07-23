@@ -1,0 +1,5 @@
+{
+	"name": "DesignView",
+	"private": true,
+	"main": "./DesignView.js"
+}

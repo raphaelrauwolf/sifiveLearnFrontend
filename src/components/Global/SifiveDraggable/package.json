@@ -1,0 +1,5 @@
+{
+	"name": "SifiveDraggable",
+	"private": true,
+	"main": "./SifiveDraggable.js"
+}

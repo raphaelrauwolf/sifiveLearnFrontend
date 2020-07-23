@@ -1,0 +1,5 @@
+{
+	"name": "LoginForm",
+	"private": true,
+	"main": "./LoginForm.js"
+}

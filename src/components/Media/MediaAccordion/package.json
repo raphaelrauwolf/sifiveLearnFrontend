@@ -1,0 +1,5 @@
+{
+	"name": "MediaAccordion",
+	"private": true,
+	"main": "./MediaAccordion.js"
+}

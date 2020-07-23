@@ -1,0 +1,5 @@
+{
+	"name": "ResetMain",
+	"private": true,
+	"main": "./ResetMain.js"
+}

@@ -1,0 +1,5 @@
+{
+	"name": "TimeStamp",
+	"private": true,
+	"main": "./TimeStamp.js"
+}

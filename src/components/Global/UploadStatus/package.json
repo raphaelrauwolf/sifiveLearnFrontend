@@ -1,0 +1,5 @@
+{
+	"name": "UploadStatus",
+	"private": true,
+	"main": "./UploadStatus.js"
+}

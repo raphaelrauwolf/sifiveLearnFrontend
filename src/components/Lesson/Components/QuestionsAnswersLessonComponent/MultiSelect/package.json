@@ -1,0 +1,5 @@
+{
+	"name": "MultiSelect",
+	"private": true,
+	"main": "./MultiSelect.js"
+}

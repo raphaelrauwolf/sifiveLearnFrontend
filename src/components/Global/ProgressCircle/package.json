@@ -1,0 +1,5 @@
+{
+	"name": "ProgressCircle",
+	"private": true,
+	"main": "./ProgressCircle.js"
+}

@@ -1,0 +1,5 @@
+{
+	"name": "CourseContentBrowse",
+	"private": true,
+	"main": "./CourseContentBrowse.js"
+}

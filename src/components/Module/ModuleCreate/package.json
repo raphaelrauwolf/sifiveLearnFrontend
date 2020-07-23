@@ -1,0 +1,5 @@
+{
+	"name": "ModuleCreate",
+	"private": true,
+	"main": "./ModuleCreate.js"
+}

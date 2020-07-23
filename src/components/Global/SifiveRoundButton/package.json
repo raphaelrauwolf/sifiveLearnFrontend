@@ -1,0 +1,5 @@
+{
+	"name": "SifiveRoundButton",
+	"private": true,
+	"main": "./SifiveRoundButton.js"
+}

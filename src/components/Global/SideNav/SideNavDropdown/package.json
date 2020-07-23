@@ -1,0 +1,5 @@
+{
+	"name": "SideNavDropdown",
+	"private": true,
+	"main": "./SideNavDropdown.js"
+}

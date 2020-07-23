@@ -1,0 +1,5 @@
+{
+	"name": "ForgotForm",
+	"private": true,
+	"main": "./ForgotForm.js"
+}

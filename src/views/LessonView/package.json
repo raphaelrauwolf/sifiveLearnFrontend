@@ -1,0 +1,5 @@
+{
+	"name": "LessonView",
+	"private": true,
+	"main": "./LessonView.js"
+}

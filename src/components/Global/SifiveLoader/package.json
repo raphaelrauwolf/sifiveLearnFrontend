@@ -1,0 +1,5 @@
+{
+	"name": "SifiveLoader",
+	"private": true,
+	"main": "./SifiveLoader.js"
+}

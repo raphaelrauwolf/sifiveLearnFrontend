@@ -1,0 +1,5 @@
+{
+	"name": "ManagerDashboard",
+	"private": true,
+	"main": "./ManagerDashboard.js"
+}

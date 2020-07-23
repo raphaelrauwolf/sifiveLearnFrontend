@@ -1,0 +1,10 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:none;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;}
+</style>
+<path class="st0" d="M0,0h24v24H0C0,24,0,0,0,0z"/>
+<path class="st1" d="M22,12c0,5.5-4.5,10-10,10C6.5,22,2,17.5,2,12C2,6.5,6.5,2,12,2C17.5,2,22,6.5,22,12z M11.3,11.3V4.7h1.3v6.7h4
+	v1.3h-4h-1.3V11.3z"/>
+</svg>

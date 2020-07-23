@@ -1,0 +1,5 @@
+{
+	"name": "SideCourseNav",
+	"private": true,
+	"main": "./SideCourseNav.js"
+}

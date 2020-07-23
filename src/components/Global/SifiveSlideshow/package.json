@@ -1,0 +1,5 @@
+{
+	"name": "SifiveSlideshow",
+	"private": true,
+	"main": "./SifiveSlideshow.js"
+}

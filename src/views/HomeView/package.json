@@ -1,0 +1,5 @@
+{
+	"name": "HomeView",
+	"private": true,
+	"main": "./HomeView.js"
+}

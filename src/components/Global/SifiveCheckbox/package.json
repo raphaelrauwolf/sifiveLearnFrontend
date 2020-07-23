@@ -1,0 +1,5 @@
+{
+	"name": "SifiveCheckbox",
+	"private": true,
+	"main": "./SifiveCheckbox.js"
+}

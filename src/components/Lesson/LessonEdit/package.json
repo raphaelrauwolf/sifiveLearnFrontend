@@ -1,0 +1,5 @@
+{
+	"name": "LessonEdit",
+	"private": true,
+	"main": "./LessonEdit.js"
+}

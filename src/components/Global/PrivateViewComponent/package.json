@@ -1,0 +1,5 @@
+{
+	"name": "PrivateViewComponent",
+	"private": true,
+	"main": "./PrivateViewComponent.js"
+}

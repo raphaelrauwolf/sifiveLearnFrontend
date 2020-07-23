@@ -1,0 +1,5 @@
+{
+	"name": "SingleSelect",
+	"private": true,
+	"main": "./SingleSelect.js"
+}

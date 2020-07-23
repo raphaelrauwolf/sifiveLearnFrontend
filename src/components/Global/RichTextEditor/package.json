@@ -1,0 +1,5 @@
+{
+	"name": "RichTextEditor",
+	"private": true,
+	"main": "./RichTextEditor.js"
+}

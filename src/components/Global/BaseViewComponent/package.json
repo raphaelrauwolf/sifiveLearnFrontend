@@ -1,0 +1,5 @@
+{
+	"name": "BaseViewComponent",
+	"private": true,
+	"main": "./BaseViewComponent.js"
+}

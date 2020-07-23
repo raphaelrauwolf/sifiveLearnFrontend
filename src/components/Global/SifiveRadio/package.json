@@ -1,0 +1,5 @@
+{
+	"name": "SifiveRadio",
+	"private": true,
+	"main": "./SifiveRadio.js"
+}

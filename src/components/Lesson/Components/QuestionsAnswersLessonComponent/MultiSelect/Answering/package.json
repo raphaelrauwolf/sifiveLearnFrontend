@@ -1,0 +1,5 @@
+{
+	"name": "Answering",
+	"private": true,
+	"main": "./Answering.js"
+}

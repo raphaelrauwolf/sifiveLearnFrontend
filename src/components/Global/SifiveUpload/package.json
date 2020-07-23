@@ -1,0 +1,5 @@
+{
+	"name": "SifiveUpload",
+	"private": true,
+	"main": "./SifiveUpload.js"
+}

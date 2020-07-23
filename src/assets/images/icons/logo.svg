@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 129.00472 122.68331"
+   height="122.68331mm"
+   width="129.00471mm">
+  <defs
+     id="defs2">
+    <filter
+       id="filter941"
+       style="color-interpolation-filters:sRGB">
+      <feTurbulence
+         id="feTurbulence925"
+         result="turbulence"
+         seed="56"
+         numOctaves="5"
+         baseFrequency="0.02 0.04"
+         type="fractalNoise" />
+      <feComposite
+         id="feComposite927"
+         result="composite1"
+         operator="in"
+         in2="turbulence"
+         in="SourceGraphic" />
+      <feColorMatrix
+         id="feColorMatrix929"
+         result="color"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 3 -2.54 " />
+      <feFlood
+         id="feFlood931"
+         result="flood"
+         flood-color="rgb(21,40,57)"
+         flood-opacity="1" />
+      <feMerge
+         id="feMerge937"
+         result="merge">
+        <feMergeNode
+           id="feMergeNode933"
+           in="flood" />
+        <feMergeNode
+           id="feMergeNode935"
+           in="color" />
+      </feMerge>
+      <feComposite
+         id="feComposite939"
+         result="composite2"
+         operator="in"
+         in2="SourceGraphic" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(31.570088,-68.954225)"
+     id="layer1">
+    <path
+       id="path826"
+       d="M 0.68442203,168.31147 C -17.002671,155.47113 -31.516506,144.92159 -31.568548,144.86807 c -0.07385,-0.076 2.489464,-8.04301 11.674885,-36.28689 C -13.420436,88.6769 -7.87443,71.618186 -7.569204,70.672915 l 0.554953,-1.71869 39.91716,0.0198 39.917159,0.0198 12.309154,37.848945 c 6.770042,20.8169 12.307473,37.88447 12.305411,37.92792 -0.004,0.0746 -64.360205,46.82443 -64.517762,46.86684 -0.04075,0.011 -14.545357,-10.48578 -32.23244897,-23.32612 z M 58.949146,160.85061 c 14.25584,-10.36499 25.921129,-18.89247 25.922849,-18.94997 0.004,-0.10552 -9.410118,-28.97939 -9.555269,-29.30937 l -0.0782,-0.17779 H 43.195624 c -17.623586,0 -32.041967,-0.009 -32.040843,-0.0198 0.0013,-0.0108 0.812763,-2.54432 1.803643,-5.62991 l 1.801604,-5.61019 28.380658,-0.0198 c 22.625349,-0.0158 28.38042,-0.0398 28.379431,-0.11853 -7.94e-4,-0.0543 -1.453812,-4.543338 -3.229182,-9.97573 l -3.227937,-9.877086 -32.155107,-0.0199 -32.15510597,-0.0199 -0.122531,0.37543 c -1.624539,4.977567 -16.61365803,50.817356 -16.63939903,50.886666 -0.02927,0.0788 8.044223,0.10269 40.085086,0.11853 l 40.121726,0.0198 -15.4799,11.25469 c -8.513961,6.19009 -15.589367,11.33659 -15.723143,11.43667 l -0.243218,0.18197 -7.974494,-5.80572 -7.974491,-5.80573 -16.66853597,-8e-4 c -10.15853803,-5.3e-4 -16.63921403,0.0274 -16.59346703,0.0718 0.302426,0.29314 49.313795,35.88069 49.390648,35.86295 0.05412,-0.0125 11.76223,-8.50316 26.01808,-18.86815 z"
+       style="fill:#000000;fill-opacity:1;stroke-width:1" />
+  </g>
+</svg>

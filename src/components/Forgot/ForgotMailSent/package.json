@@ -1,0 +1,5 @@
+{
+	"name": "ForgotMailSent",
+	"private": true,
+	"main": "./ForgotMailSent.js"
+}

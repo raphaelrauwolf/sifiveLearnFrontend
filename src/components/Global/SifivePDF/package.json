@@ -1,0 +1,5 @@
+{
+	"name": "SifivePDF",
+	"private": true,
+	"main": "./SifivePDF.js"
+}

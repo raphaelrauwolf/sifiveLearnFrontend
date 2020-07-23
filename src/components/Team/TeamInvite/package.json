@@ -1,0 +1,5 @@
+{
+	"name": "TeamInvite",
+	"private": true,
+	"main": "./TeamInvite.js"
+}

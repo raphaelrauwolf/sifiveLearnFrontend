@@ -1,0 +1,5 @@
+{
+	"name": "Editing",
+	"private": true,
+	"main": "./Editing.js"
+}

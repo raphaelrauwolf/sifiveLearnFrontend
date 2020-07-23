@@ -1,0 +1,5 @@
+{
+	"name": "CourseProgressBar",
+	"private": true,
+	"main": "./CourseProgressBar.js"
+}

@@ -1,0 +1,5 @@
+{
+	"name": "SideNav",
+	"private": true,
+	"main": "./SideNav.js"
+}

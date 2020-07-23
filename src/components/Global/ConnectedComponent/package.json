@@ -1,0 +1,5 @@
+{
+	"name": "ConnectedComponent",
+	"private": true,
+	"main": "./ConnectedComponent.js"
+}

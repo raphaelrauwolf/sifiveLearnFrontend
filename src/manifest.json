@@ -1,0 +1,16 @@
+{
+	"name": "SiFive Learn",
+	"short_name": "SiFive Learn",
+	"description": "Learn platform for SiFive technologies",
+	"start_url": "/",
+	"display": "standalone",
+	"theme_color": "#F4F4F4",
+	"background_color": "#F4F4F4",
+	"icons": [
+        {
+			"src": "\/assets\/images\/favicons\/512x512.png",
+			"sizes": "512x512",
+			"type": "image\/png"
+		}
+    ]
+}

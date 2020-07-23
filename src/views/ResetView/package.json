@@ -1,0 +1,5 @@
+{
+	"name": "ResetView",
+	"private": true,
+	"main": "./ResetView.js"
+}

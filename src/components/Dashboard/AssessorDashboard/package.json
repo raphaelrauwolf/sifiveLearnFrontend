@@ -1,0 +1,5 @@
+{
+  "name": "AssessorDashboard",
+  "private": true,
+  "main": "./AssessorDashboard.js"
+}

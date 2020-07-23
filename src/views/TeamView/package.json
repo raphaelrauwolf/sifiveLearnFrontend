@@ -1,0 +1,5 @@
+{
+	"name": "TeamView",
+	"private": true,
+	"main": "./TeamView.js"
+}

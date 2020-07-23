@@ -1,0 +1,5 @@
+{
+	"name": "Boolean",
+	"private": true,
+	"main": "./Boolean.js"
+}

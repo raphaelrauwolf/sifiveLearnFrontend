@@ -1,0 +1,13 @@
+
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:none;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;}
+</style>
+<path class="st0" d="M0.1,0h24v24h-24V0z"/>
+<path class="st1" d="M7.5,12.7c-0.5,0-0.9-0.4-0.9-0.9c0-0.5,0.4-0.9,0.9-0.9s0.9,0.4,0.9,0.9C8.3,12.3,7.9,12.7,7.5,12.7z
+	 M20.9,8.6C20.8,4.9,17.3,2,13.6,2h-1.1c-1.9,0-3.2,0.7-4.6,1.9c-1.8,1.6-2.4,3.9-3.1,6.1c-0.4,1.2-1.2,3.9-1.6,5.2
+	c-0.1,0.3,0.1,0.7,0.5,0.7l1.4,0v2.7c0,1.4,1.3,2.4,2.6,2.1l4.2-1.6V22l6.5-2.3v-4.1c1.6-1.4,2.6-3.5,2.6-5.8L20.9,8.6z"/>
+</svg>
